@@ -123,8 +123,8 @@ Ask for a movie in plain English. GPT works out what you mean, and TMDb finds th
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArhamAzad2004&show_icons=true&hide_border=true&bg_color=0d0c0a&title_color=f2a33a&icon_color=5fd4c4&text_color=efe8da&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamAzad2004&layout=compact&hide_border=true&bg_color=0d0c0a&title_color=f2a33a&text_color=efe8da" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArhamAzad2004&theme=github_dark" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArhamAzad2004&theme=github_dark" alt="Repos per language" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArhamAzad2004&hide_border=true&background=0d0c0a&ring=f2a33a&fire=f2a33a&currStreakLabel=f2a33a&sideLabels=efe8da&currStreakNum=efe8da&sideNums=efe8da&dates=9a917f" alt="Streak" />
