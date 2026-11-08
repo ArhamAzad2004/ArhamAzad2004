@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0c0a,100:f2a33a&height=180&section=header&text=Arham%20bin%20Azad&fontColor=efe8da&fontSize=48&fontAlignY=38&desc=software%20developer%20%C2%B7%20AI%20%26%20data%20%C2%B7%20UAE&descAlignY=58&descSize=16" alt="Arham bin Azad" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0c0a,100:f2a33a&height=180&section=header&text=Arham%20bin%20Azad&fontColor=efe8da&fontSize=48&fontAlignY=38&desc=Software%20Developer%20-%20AI%20and%20Data%20-%20Dubai&descAlignY=58&descSize=16" alt="Arham bin Azad" />
 </p>
 
 <p align="center">
