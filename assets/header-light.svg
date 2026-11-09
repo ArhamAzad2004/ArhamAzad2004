@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340" role="img" aria-labelledby="t d">
+<title id="t">arham@github</title>
+<desc id="d">Arham bin Azad. Software developer, AI and data. BSc Software Design, class of 2026. Open to internships, full-time roles, freelance and collaborations.</desc>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",Menlo,monospace;font-size:14px;fill:#1f2328;white-space:pre}
+.m{fill:#59636e}.a{fill:#b5620a}.t{fill:#0f7b6c}.art{fill:#b5620a;font-size:15px}
+.in{animation:in .5s ease-out both}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.in,.cur{animation:none}}
+</style>
+<rect x="1" y="1" width="858" height="338" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M1 36h858" stroke="#d0d7de"/>
+<circle cx="22" cy="18" r="5.5" fill="#b5620a"/><circle cx="40" cy="18" r="5.5" fill="#d0d7de"/><circle cx="58" cy="18" r="5.5" fill="#d0d7de"/>
+<text x="430" y="23" text-anchor="middle" class="m" style="font-size:12px">arham — zsh</text>
+
+<text x="28" y="66"><tspan class="t">arham@github</tspan><tspan class="m">:~$</tspan> neofetch</text>
+
+<g class="in" style="animation-delay:.2s">
+<text x="28" y="104" class="art"> ███  ████  █   █  ███  █   █</text>
+<text x="28" y="120" class="art">█   █ █   █ █   █ █   █ ██ ██</text>
+<text x="28" y="136" class="art">█████ ████  █████ █████ █ █ █</text>
+<text x="28" y="152" class="art">█   █ █  █  █   █ █   █ █   █</text>
+<text x="28" y="168" class="art">█   █ █   █ █   █ █   █ █   █</text>
+<text x="28" y="200" class="m">  builds things that ship.</text>
+</g>
+
+<g transform="translate(360 0)">
+<text x="0" y="100" class="in" style="animation-delay:.4s"><tspan class="a">arham</tspan>@<tspan class="a">github</tspan></text>
+<text x="0" y="116" class="m in" style="animation-delay:.45s">────────────────────────────────────────────</text>
+<text x="0" y="142" class="in" style="animation-delay:.6s"><tspan class="a">name    </tspan>Arham bin Azad</text>
+<text x="0" y="166" class="in" style="animation-delay:.75s"><tspan class="a">role    </tspan>Software developer · AI + data</text>
+<text x="0" y="190" class="in" style="animation-delay:.9s"><tspan class="a">study   </tspan>BSc Software Design · class of 2026</text>
+<text x="0" y="214" class="in" style="animation-delay:1.05s"><tspan class="a">stack   </tspan>Python · TypeScript · Next.js · Hugging Face</text>
+<text x="0" y="238" class="in" style="animation-delay:1.2s"><tspan class="a">shipped </tspan>4 projects · 1 classified</text>
+<text x="0" y="262" class="in" style="animation-delay:1.35s"><tspan class="a">status  </tspan><tspan class="t">●</tspan> open to internships, full-time, freelance</text>
+<g class="in" style="animation-delay:1.5s">
+<rect x="0" y="282" width="22" height="12" fill="#b5620a"/><rect x="26" y="282" width="22" height="12" fill="#0f7b6c"/><rect x="52" y="282" width="22" height="12" fill="#1f2328"/><rect x="78" y="282" width="22" height="12" fill="#59636e"/><rect x="104" y="282" width="22" height="12" fill="#d0d7de"/>
+</g>
+</g>
+
+<text x="28" y="316"><tspan class="t">arham@github</tspan><tspan class="m">:~$</tspan> <tspan class="a cur">█</tspan></text>
+</svg>
