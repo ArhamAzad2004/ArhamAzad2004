@@ -13,6 +13,29 @@
 
 I turn messy data and hard ideas into working, explainable software, and I build it fast: hackathon prototypes that actually run, algorithms you can watch, and AI that shows its reasoning.
 
+### `~/now`
+
+`building` [classified] &nbsp;·&nbsp; `learning` GitHub Foundations &nbsp;·&nbsp; `just finished` Goldman Sachs Risk Job Simulation
+
+### `~/featured`
+
+<a href="https://github.com/ArhamAzad2004/health-early-warning">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg" />
+    <img alt="health-early-warning back-test on simulated data: 7 signals, 11 areas, 5 months. Both outbreaks caught 3 to 5 days before the harm peak, 80% precision, 1 false alarm. One site missed in the dust-storm scenario." src="assets/project-light.svg" width="100%" />
+  </picture>
+</a>
+
+### `~/recent`
+
+<!-- recent:start -->
+- `2026-11-09` **[health-early-warning](https://github.com/ArhamAzad2004/health-early-warning)**: Explainable, privacy-preserving early warning for population and workforce health risks (Dubai demo): multi-signal detection, back-tested alerts, role-based views
+- `2026-11-08` **[Algorithm-Final-Project-](https://github.com/ArhamAzad2004/Algorithm-Final-Project-)**
+- `2026-04-06` **[bsd404-project-Alogirthm-visualizer](https://github.com/ArhamAzad2004/bsd404-project-Alogirthm-visualizer)**: BSD 404 Algorithm Visualizer — Odd-Even Sort, FFT, Miller-Rabin
+- `2026-01-20` **[layout-similarity-faiss](https://github.com/ArhamAzad2004/layout-similarity-faiss)**
+- `2025-06-02` **[Ai-powered-learning-app](https://github.com/ArhamAzad2004/Ai-powered-learning-app)**
+<!-- recent:end -->
+
 ### `~/projects`
 
 - **[sentinel-dubai](https://github.com/ArhamAzad2004/health-early-warning)**: explainable early warning for population health. On simulated data it caught both test outbreaks 3–5 days early with 80% precision. `Python` `Docker`
@@ -25,7 +48,8 @@ I turn messy data and hard ideas into working, explainable software, and I build
 
 - **Python for Data Science, AI and Development**, IBM · Coursera, 2024 · [verify](https://coursera.org/verify/467DSP8VRGK3)
 - **Fundamentals of Agents**, Hugging Face, 2025 · [view](https://arhamazad2004.github.io/assets/hf-agents-cert.webp)
-- Python and GitHub certifications · *in progress*
+- **Risk Job Simulation**, Goldman Sachs · Forage, 2026 · [view](https://arhamazad2004.github.io/assets/gs-risk-cert.webp)
+- GitHub Foundations · *in progress*
 
 <details>
 <summary><b>Hiring?</b> Why I'd fit</summary>
