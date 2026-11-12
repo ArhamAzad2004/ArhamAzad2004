@@ -29,7 +29,7 @@ I turn messy data and hard ideas into working, explainable software, and I build
 ### `~/recent`
 
 <!-- recent:start -->
-- `2026-11-10` **[health-early-warning](https://github.com/ArhamAzad2004/health-early-warning)**: Explainable, privacy-preserving early warning for population and workforce health risks (Dubai demo): multi-signal detection, back-tested alerts, role-based views
+- `2026-11-11` **[health-early-warning](https://github.com/ArhamAzad2004/health-early-warning)**: Explainable, privacy-preserving early warning for population and workforce health risks (Dubai demo): multi-signal detection, back-tested alerts, role-based views
 - `2026-11-08` **[Algorithm-Final-Project-](https://github.com/ArhamAzad2004/Algorithm-Final-Project-)**
 - `2026-04-06` **[bsd404-project-Alogirthm-visualizer](https://github.com/ArhamAzad2004/bsd404-project-Alogirthm-visualizer)**: BSD 404 Algorithm Visualizer — Odd-Even Sort, FFT, Miller-Rabin
 - `2026-01-20` **[layout-similarity-faiss](https://github.com/ArhamAzad2004/layout-similarity-faiss)**
